@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
+using Stoica_Alexia_Lab10.Models;
 namespace Stoica_Alexia_Lab10
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
